@@ -5,34 +5,13 @@ body, header, nav, main, footer, img, h1, h3 {
     border: 0;
 }
 
+header{ 
+    text-align: center;
+    position: fixed;
+}
 /* Style rules for body and images */
 body {
     background-color: #f6eee4;
-}
-/* Style rules for mobile viewport */
-
-
-/* Style rules to show mobile class and hide tab-desk class */
-.mobile {
-    display: block;
-}
-
-.tab-desk {
-    display: none;
-}
-
-
-/* Style rules for header area */
-.mobile h1 {
-    padding: 2%;
-    text-align: center;
-    font-family: 'Emblema One', cursive;
-}
-
-.mobile h3 {
-    padding: 2%;
-    text-align: center;
-    font-family: 'Lora', serif;
 }
 
 img {
@@ -101,32 +80,6 @@ main ul {
     text-align: center;
 }
 
-.round {
-    border-radius: 6px;
-}
-
-#info ul {
-    margin-left: 10%;
-}
-
-#contact {
-    text-align: center;
-}
-
-/* Style rule for phone number paragraph */
-.tel-link {
-    background-color: #2a1f14;
-    padding: 2%;
-    width: 80%;
-    margin: 0 auto;
-}
-
-/* Style rule for phone number link */
-.tel-link a {
-    color: #f6eee4;
-    text-decoration: none;
-    font-weight: bold;
-}
 
 /* Style rules for footer content */
 footer {
