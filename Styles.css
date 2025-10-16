@@ -1,0 +1,5 @@
+/* Style rule for images */
+img {
+	max-width: 100%;
+	display: block;
+}
