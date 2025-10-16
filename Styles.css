@@ -1,4 +1,8 @@
-img { 
-  max-width: auto;
+img.top-banner {
+  display: block;           /* Removes bottom gap and aligns the image */
+  width: 100vw;             /* Full viewport width */
+  max-width: 100%;          /* Prevents overflow on small screens */
+  height: auto;             /* Maintains aspect ratio */
+  margin-top: 0;            /* Ensures it starts at the very top */
+  object-fit: cover;        /* Ensures the image covers the width */
 }
-  
