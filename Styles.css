@@ -1,3 +1,11 @@
+
+body, header, nav, main, footer, img, h1, h3 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
 img.top-banner {
   display: block;     
   width: 100vw;      
