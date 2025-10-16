@@ -8,8 +8,8 @@ body, header, nav, main, footer, img, h1, h3 {
 
 img.top-banner {
   display: block;     
-  width: 100vw;      
-  max-width: 100%;      
+  width: 50vw;      
+  max-width: 50%;      
   height: auto;       
   margin-top: 0;       
   object-fit: cover;      
