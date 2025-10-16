@@ -1,1 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Spearfishing</title>
+	<meta charset="utf-8">
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src="" alt="picture of spearfishing"> 
+</head>
+<body>
+	<div id="container">
+        <header>
+            <h1>Learn About Spearfishing With Me </h1>
+        </header>
+      <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Safety</a></li>
+                <li><a href="#">Equipment</a></li>         
+            </ul>
+        </nav>
+        <main>
+  <div>
+  <div>
+                <h3>What Is Spearfishing?</h3>
+                        <p> dfdfdf </p>
+  </div>
 
+  <div>
+                <h3>Things To Know </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+
+  <div>
+               <h3>...</h3>
+                        <p>...</p>
+  </div>
+
+  <div>
+                        <h3>...</h3>
+                        <p> ... </p>
+  </div>
+
+  <div>
+                        <h2>Practice Makes Perfect</h2>
+                        <p>The more time in the water the more youll be comfortable</p>
+  </div>
+
+  </div>
+
+</main>
+
+<footer>
+            <p>Designed by: Sherwin Acob</p>
+        </footer>
