@@ -25,3 +25,8 @@ top-image {
   height: 50%;
   display: block;
 }
+
+aside {
+  float: right;
+  width: 30%;
+}
