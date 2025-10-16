@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
     <link rel="stylesheet" href="css/styles.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <img src="" alt="picture of spearfishing"> 
+    <img src="images/Spearfishing.jpg" alt="picture of spearfishing"> 
 </head>
 <body>
 	<div id="container">
