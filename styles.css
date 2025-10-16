@@ -1,11 +1,11 @@
 /* CSS Reset */
-body, header, nav, main, footer, img, h1, h3 {
+body, nav, main, footer, img, h1, h3 {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
-header{ 
+header { 
     text-align: center;
     position: fixed;
 }
