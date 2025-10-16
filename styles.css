@@ -7,7 +7,6 @@ body, nav, main, footer, img, h1, h3 {
 
 header { 
     text-align: center;
-    position: fixed;
 }
 /* Style rules for body and images */
 body {
