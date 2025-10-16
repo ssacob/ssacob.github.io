@@ -1,5 +1,20 @@
-/* Style rule for images */
-img {
-	max-width: 100%;
-	display: block;
+/* Laptop screens (>= 1025px) */
+@media (min-width: 1025px) {
+	.spearfishing-image {
+		height: 100px;
+	}
+}
+
+/* Tablet screens (between 601px and 1024px) */
+@media (min-width: 601px) and (max-width: 1024px) {
+	.spearfishing-image {
+		height: 80px;
+	}
+}
+
+/* Mobile screens (<= 600px) */
+@media (max-width: 600px) {
+	.spearfishing-image {
+		height: 60px;
+	}
 }
