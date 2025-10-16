@@ -30,3 +30,17 @@ aside {
   float: right;
   width: 30%;
 }
+
+body { /* Or a parent container of aside and main content */
+  display: grid;
+  grid-template-columns: 1fr 300px; /* One column for main, one fixed for aside */
+  gap: 20px; /* Space between columns */
+}
+
+aside {
+  /* This will automatically be placed in the second column */
+}
+
+main {
+  /* This will automatically be placed in the first column */
+}
