@@ -6,14 +6,17 @@
 }
 
 .header { 
+    color: #f3e6d8;  
     font-size: 18px;
     max-width: 100%;
     text-align: center;
     display: center;
-    background: url(images/Spearfishing.png);
+    background-image: linear-gradient)rgba(4,9,30,0,7),rgba(4,9,30,0,7)) url(images/Spearfishing.png);
     background-position: center;
     position: relative;
+    background-size: cover;
 }
+
 
 .centered-header {
             text-align: center;
@@ -88,7 +91,7 @@ footer {
     text-align: center;
     font-size: 0.85em;
     background-color: #2a1f14;
-    color: #f6eee4;
+    color: rgb(0, 0, 0)
     padding: 1% 0%;
 }
 
