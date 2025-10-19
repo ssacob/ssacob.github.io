@@ -8,10 +8,10 @@
 
 body{ 
   padding: 1em;
-  background-color: #add8e6:
+  background-color: rgb(173, 216, 230);
 }
 h1,h2,h3 {
-  font-family: BBH;
+  font-family: sans;
 }
 
 nav {
