@@ -132,7 +132,8 @@ main {
   text-align: center;
 }
 
-/* Eqipment and Fish grids */
+
+/* Eqipment */
 .equipment-grid {
   display: flex;
   flex-wrap: wrap;
@@ -155,6 +156,27 @@ main {
   margin-bottom: 15px;
 }
 
+.safety-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 20px;
+}
+
+.safety-item {
+  text-align: center;
+  width: 200px;
+
+  
+.safety-item img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  margin-bottom: 15px;
+}}
 .reef-banner {
   background-image: url("reefbanner.jpeg"); 
   background-size: cover;
