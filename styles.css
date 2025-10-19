@@ -15,11 +15,10 @@ body {
 header {
   width: 100%;
   height: 100px;
-  background: #add8e6
+  background: #add8e6:
   position: fixed;
   text-decoration: none;
 }
-
 
 nav {
   display: flex;
@@ -27,11 +26,9 @@ nav {
 }
 nav a {
   text-decoration: none;
-  font-family: 'BBH Sans Hegarty';
   letter-spacing: 4px;
   font-size: 12px;
   padding: 36px 10px;
   margin: 0 1px;
-  text-align: center;
 }
 
