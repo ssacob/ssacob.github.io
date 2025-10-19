@@ -133,7 +133,7 @@ main {
 }
 
 
-/* Eqipment */
+/* Eqipment & Fish*/
 .equipment-grid {
   display: flex;
   flex-wrap: wrap;
@@ -176,7 +176,7 @@ main {
   border-radius: 50%;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   margin-bottom: 15px;
-}}
+}
 .reef-banner {
   background-image: url("reefbanner.jpeg"); 
   background-size: cover;
