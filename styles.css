@@ -79,7 +79,7 @@ h1 {
 .cta-button {
   display: center;
   text-decoration: none;
-  color: white;
+  color: rgb(255, 255, 255)
   background-color: blue;
   padding: .753em 1.25em;
   border-radius: .5em;
