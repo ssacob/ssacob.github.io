@@ -11,7 +11,7 @@
     max-width: 100%;
     text-align: center;
     display: center;
-    background-image: linear-gradient)rgba(4,9,30,0,7),rgba(4,9,30,0,7)) url(images/Spearfishing.png);
+    background-image: linear-gradient(rgba(4,9,30,0,7),rgba(4,9,30,0,7)) url(images/Spearfishing.png);
     background-position: center;
     position: relative;
     background-size: cover;
