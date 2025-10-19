@@ -7,7 +7,7 @@
   padding: 100px 20px 60px 20px;
 }
 
-.nav {
+.nav ul li{
   background-color: rgba(0, 0, 0, 0.5);
   padding: 10px;
   text-align: center;
