@@ -32,9 +32,12 @@ nav a {
   margin: 0 0px;
   float: right;
 }
-
-.grid{
+section {
+  position: flex;
+  
+.container{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr; 
     grid-gap: 20px;
 }
+
