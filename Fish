@@ -11,17 +11,15 @@
   <header class="banner reef-banner">
     <header>
       <div>
-		<nav>
-			<ul>
-			  <li><a href="index.html">Home</a></li>
-              <li><a href="equipment">Equipment</a></li>
-              <li><a href="Fish">Fish</a></li> 
-			  <li><a href="Safety">Safety</a></li>				
-			</ul>
-		</nav>   
-      <h1>Reef Fish</h1>
-      <p>Type of fish common in Hawaii Reef<p>
-    </div>
+		 <nav class="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="equipment">Equipment</a></li>
+            <li><a href="Fish">Fish</a></li>     
+	        <li><a href="Safety">Safety</a></li> 
+         </nav>
+        <h1>Reef Fish</h1>
+        <p>Type of fish common in Hawaii Reef<p>
+     </div>
   </header>
 
   <main>
