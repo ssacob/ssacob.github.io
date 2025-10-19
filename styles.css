@@ -1,50 +1,81 @@
-/* CSS Reset */
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-{
-
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
 }
 
-/* Banner styling */
+/* ===== BANNER ===== */
 .banner {
-  background-image: url(Spearfishing.png); /* <-- replace with your image file name or URL */
-  background-size: cover; /* makes image cover the whole banner area */
-  background-position: center; /* centers the image */
+  background-image: url("banner.jpg"); /* replace with your own image */
+  background-size: cover;
+  background-position: center;
   color: white;
   text-align: center;
-  padding: 100px 20px; /* adjusts the banner height and spacing */
-  position: relative;
+  padding: 100px 20px 60px 20px;
 }
 
-/* Optional text styling */
-.banner h1 {
+/* NAVIGATION BAR */
+.navbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  text-align: center;
+}
+
+.navbar a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-size: 1.1em;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+  color: #ffdd57;
+}
+
+/* BANNER TEXT */
+.banner-text {
+  margin-top: 40px;
+}
+
+.banner-text h1 {
   font-size: 3em;
   margin-bottom: 0.3em;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
 }
 
-.banner p {
+.banner-text p {
   font-size: 1.5em;
-  font-weight: 300;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
 }
 
-/* === Columns Section === */
-.columns {
+/* ===== MAIN CONTENT ===== */
+main {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: flex-start;
   gap: 30px;
-  padding: 50px 20px;
-  flex-wrap: wrap; /* makes it responsive */
+  padding: 40px 20px;
+}
+
+/* COLUMNS */
+.columns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  flex: 1;
+  min-width: 300px;
 }
 
 .column {
   background-color: #f5f5f5;
   border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   padding: 30px;
   width: 300px;
   text-align: center;
@@ -55,24 +86,69 @@ body {
   color: #222;
 }
 
-.column p {
-  font-size: 1em;
-  line-height: 1.6;
+/* SIDEBAR */
+.sidebar {
+  background-color: #e8f4ff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 20px;
+  width: 250px;
+  min-width: 200px;
+  text-align: left;
 }
-    
-/* For tablets and smaller devices */
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  font-size: 0.9em;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+/* Tablets and smaller screens */
 @media (max-width: 900px) {
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+
   .columns {
-    flex-direction: column;  /* stack vertically */
+    flex-direction: column;
     align-items: center;
   }
 
   .column {
-    width: 80%; /* wider since they’re stacked */
+    width: 80%;
   }
 
   .navbar a {
-    display: block; /* make nav links stack vertically */
+    display: block;
     margin: 10px 0;
+  }
+
+  .sidebar {
+    width: 80%;
+  }
+}
+
+/* Phones */
+@media (max-width: 500px) {
+  .banner-text h1 {
+    font-size: 2em;
+  }
+
+  .banner-text p {
+    font-size: 1em;
+  }
+
+  .column {
+    width: 100%;
+  }
+
+  .sidebar {
+    width: 95%;
   }
 }
