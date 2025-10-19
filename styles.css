@@ -72,7 +72,7 @@ h1 {
 }
 
 .text-container p {
-  font-size: .75em 0 1em 0;
+  margin: .75em 0 1em 0;
   font-size: 1.25rem
 }
 
@@ -80,7 +80,7 @@ h1 {
   display: center;
   text-decoration: none;
   color: rgb(255, 255, 255)
-  background-color: blue;
+  background: blue;
   padding: .753em 1.25em;
   border-radius: .5em;
   font-weight: 600;
