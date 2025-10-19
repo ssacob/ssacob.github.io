@@ -5,10 +5,13 @@
     border: 0;
 }
 
-header { 
+.header { 
     max-width: 100%;
     text-align: center;
     display: center;
+    background: url(images/Spearfishing.png);
+    background-position: center;
+    position: relative;
 }
 /* Style rules for body and images */
 body {
