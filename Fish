@@ -40,7 +40,7 @@
         <h3>Menpachi (soldier Fish)</h3>
       </div>
       <div class="equipment-item">
-        <img src="Mu" alt="Mu">
+        <img src="mu.jpg" alt="Mu">
         <h3>Mu (Big Eyed Emperor)</h3>
       </div>
       <div class="equipment-item">
