@@ -21,8 +21,7 @@ header {
 }
 
 nav {
-  display: flex;
-  line-height: 100px;
+  line-height: 80px;
 }
 nav a {
   text-decoration: none;
@@ -41,4 +40,8 @@ section {
     grid-template-columns: 1fr 1fr 1fr; 
     grid-gap: 20px;
 }
+section{ 
+  
+
+
 
