@@ -76,5 +76,16 @@ h1 {
   font-size: 1.25rem
 }
 
+.cta-button {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background-color: blue;
+  padding: .753em 1.25em;
+  border-radius: .5em;
+  font-weight: 600;
+}
 
+
+  
 
