@@ -15,8 +15,8 @@ body {
 }
 
 img {
-    max-width: 50%;
-    display: block;
+    max-width: 100%;
+    heght: 50%;
 }
 
 a {
