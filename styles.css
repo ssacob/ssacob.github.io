@@ -75,17 +75,6 @@ main {
 }
 
 
-.sidebar {
-  background-color: #e8f4ff;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  padding: 20px;
-  width: 250px;
-  min-width: 200px;
-  text-align: left;
-}
-
-
 .footer {
   text-align: center;
   background-color: color: rgb(173, 216, 230);
