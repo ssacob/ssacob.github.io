@@ -30,6 +30,7 @@
 
 .banner-text {
   margin-top: 40px;
+  
 }
 
 .banner-text h1 {
@@ -87,12 +88,11 @@ main {
 
 .footer {
   text-align: center;
-  background-color: #222;
-  color: white;
+  background-color: color: rgb(173, 216, 230);
+  color: rgb(255, 255, 255);
   padding: 20px;
   font-size: 0.9em;
 }
-
 
 
 /* Tablets  */
@@ -164,4 +164,55 @@ main {
   border-radius: 50%;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   margin-bottom: 15px;
+}
+
+.reef-banner {
+  background-image: url("reefbanner.jpeg"); 
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px 60px 20px;
+  color: white;
+  text-align: center;
+}
+.safety-banner {
+  background-image: url("safety.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px 60px 20px;
+  color: white;
+  text-align: center;
+}
+
+/* Reef Fish */
+@media (max-width: 900px) {
+  .equipment-item {
+    width: 45%;
+  }
+
+  .reef-banner h1 {
+    font-size: 2em;
+    color: rgb(173, 216, 230);
+  }
+
+/* Safety */
+@media (max-width: 500px) {
+  .equipment-item {
+    width: 80%;
+  }
+
+  .safety-banner h1 {
+    font-size: 2em;
+    color: rgb(173, 216, 230);  
+}
+
+/* Equipment */
+
+@media (max-width: 500px) {
+  .equipment-item {
+    width: 80%;
+  }
+
+  .equipment-banner h1 {
+    font-size: 2em;
+    color: rgb(173, 216, 230);  
 }
