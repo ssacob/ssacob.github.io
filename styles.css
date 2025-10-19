@@ -34,6 +34,7 @@ nav a {
 }
 section {
   position: flex;
+}
   
 .container{
     display: grid;
