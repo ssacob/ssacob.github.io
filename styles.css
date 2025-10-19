@@ -7,14 +7,13 @@ body {
 
 /* ===== BANNER ===== */
 .banner {
-  background-image: url("spearfishing (1).jpg); /* replace with your own image */
+  background-image: url("spearfishing-1.jpg); /* replace with your own image */
   background-size: cover;
   background-position: center;
   text-align: center;
   padding: 100px 20px 60px 20px;
 }
 
-/* NAVIGATION BAR */
 .navbar {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 10px;
