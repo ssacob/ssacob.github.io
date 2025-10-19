@@ -26,6 +26,7 @@ body {
 
 a {
     text-decoration: none;
+    
 }
 
 /* Style rules for navigation area */
@@ -70,7 +71,8 @@ main h3 {
 main ul {
     list-style-type: square;
 }
-
+.column {
+    
 
 .link {
     color: #4d3319;
