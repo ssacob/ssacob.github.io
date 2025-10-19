@@ -35,15 +35,15 @@
         <h3>Fins</h3>
       </div>
       <div class="equipment-item">
-        <img src="equipment4.jpg" alt="Equipment 4">
-        <h3>Spearfishing Gun</h3>
+        <img src="spear.jpg" alt="Spear">
+        <h3>Spear</h3>
       </div>
       <div class="equipment-item">
-        <img src="equipment5.jpg" alt="Equipment 5">
+        <img src="wetsuit.jpg" alt="Wetsuit">
         <h3>Wetsuit</h3>
       </div>
       <div class="equipment-item">
-        <img src="equipment6.jpg" alt="Equipment 6">
+        <img src="weight-belt.jpg" alt="Weight Belt">
         <h3>Weight Belt</h3>
       </div>
     </section>
