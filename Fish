@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Reef Fish</title>
+	<meta name="viewport" charset="utf-8" content="with-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+  <header class="banner equipment-banner">
+    <nav class="navbar">
+      <a href="index.html">Home</a>
+      <a href="equipment.html">Equipment</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="banner-text">
+      <h1>Reef Fish</h1>
+      <p>Type of fish common in Hawaii Reef<p>
+    </div>
+  </header>
+
+  <main>
+    <section class="equipment-grid">
+      <div class="equipment-item">
+        <img src="kole.jpeg" alt="Yellow Eyed Tang">
+        <h3>Kole (Yellow Eyed Tang)</h3>
+      </div>
+      <div class="equipment-grid">
+        <img src="papio.jpeg" alt="Popio">
+        <h3>Smaller jack in the trevally family </h3>
+      </div>
+      <div class="equipment-item">
+        <img src="uhu.jpg" alt="Uhu">
+        <h3>Uhu (Parrot Fish</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="menpachi.jpg" alt="Menpachi">
+        <h3>Menpachi (soldier Fish)</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="Mu" alt="Mu">
+        <h3>Mu (Big Eyed Emperor)</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="toao.jpeg" alt="Toao">
+        <h3>Toao (Red Tailed Snapper)</h3>
+      </div>
+    </section>
+  </main>
+
+</body>
+</html>
