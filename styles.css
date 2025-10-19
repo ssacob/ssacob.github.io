@@ -77,7 +77,7 @@ h1 {
 }
 
 .cta-button {
-  display: inline-block;
+  display: center;
   text-decoration: none;
   color: white;
   background-color: blue;
