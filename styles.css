@@ -86,7 +86,7 @@ h1 {
   font-weight: 600;
 }
 .grid {
-  display: flex-grid;
+  display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 10px;
 }
