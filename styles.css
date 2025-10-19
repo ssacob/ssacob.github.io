@@ -6,8 +6,9 @@
 }
 
 header { 
+    max-width: 100%;
     text-align: center;
-    display: inline-block;
+    display: center;
 }
 /* Style rules for body and images */
 body {
