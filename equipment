@@ -14,7 +14,8 @@
       <a href="index.html">Home</a>
       <a href="equipment.html">Equipment</a>
       <a href="#contact">Contact</a>
-    </nav>
+      <a href="Fish">Fish</a>   
+</nav>
     <div class="banner-text">
       <h1>Equipment</h1>
     </div>
