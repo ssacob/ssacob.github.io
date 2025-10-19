@@ -10,9 +10,10 @@
 
   <header class="banner equipment-banner">
     <nav class="navbar">
-      <a href="index.html">Home</a>
-      <a href="equipment.html">Equipment</a>
-      <a href="#contact">Contact</a>
+     <li><a href="index.html">Home</a></li>
+     <li><a href="equipment">Equipment</a></li>
+     <li><a href="Fish">Fish</a></li>     
+	 <li><a href="Safety">Safety</a></li> 
     </nav>
     <div class="banner-text">
       <h1>Reef Fish</h1>
