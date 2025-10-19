@@ -15,7 +15,7 @@ body {
 header {
   width: 100%;
   height: 100px;
-  background: color: #89bff8;
+  background: color: 'blue';
   position: fixed;
   text-decoration: none;
 }
