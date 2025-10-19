@@ -48,7 +48,7 @@ header, section {
   border-radius: 1 em;
 }
 
-.flex-container { 
+.flexcontainer { 
   display: flex;
   justify-content: center;
   align-items: center;
@@ -58,11 +58,17 @@ header, section {
 
 header img {
   max-width: 100%
-  border-radius 1em:
+  border-radius: 1em;
   object-fit: cover;
-  object-position: bottom: 
+  object-position: bottom;
 }
 
 .text-container {
   flex: 0 1 34 em;
 }
+
+h1 {
+  font-size: .75em 0 1em 0;
+  font-size: 1.25rem
+}
+
