@@ -10,7 +10,17 @@ body {
 .wrapper {
   width: 90%;
   margin: 0 auto;
-  
+}
+
+header {
+  width: 100%;
+  height 100px;
+  background-color: #0000FF
+  poistion: fixed;
+}
+
+
+
 .banner {
   background-image: url("Spearfishing.jpg); 
   background-size: cover;
