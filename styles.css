@@ -7,13 +7,13 @@
   padding: 100px 20px 60px 20px;
 }
 
-.navbar {
+.nav {
   background-color: rgba(0, 0, 0, 0.5);
   padding: 10px;
   text-align: center;
 }
 
-.navbar a {
+.nav a {
   display: inline-block;
   color: #fff;
   text-decoration: none;
@@ -21,10 +21,6 @@
   font-size: 1.1em;
   font-weight: bold;
   transition: color 0.3s ease;
-}
-
-.navbar a:hover {
-  color: #ffdd57;
 }
 
 
@@ -38,10 +34,6 @@
   margin-bottom: 0.3em;
 }
 
-.banner-text p {
-  font-size: 1.5em;
-}
-
 
 main {
   display: flex;
@@ -52,6 +44,7 @@ main {
   padding: 40px 20px;
 }
 
+main div
 .columns {
   display: flex;
   flex-wrap: wrap;
@@ -120,10 +113,6 @@ main {
   .column {
     width: 100%;
   }
-
-}
-
-
 
 /* Eqipment & Fish*/
 .equipment-grid {
