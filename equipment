@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Equipment</title>
+	<meta name="viewport" charset="utf-8" content="with-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img src
+</head>
+<body>
+
+  <header class="banner equipment-banner">
+    <nav class="navbar">
+      <a href="index.html">Home</a>
+      <a href="equipment.html">Equipment</a>
+      <a href="#contact">Contact</a>
+    </nav>
+    <div class="banner-text">
+      <h1>Equipment</h1>
+    </div>
+  </header>
+
+  <main>
+    <section class="equipment-grid">
+      <div class="equipment-item">
+        <img src="equipment1.jpg" alt="Dive mask">
+        <h3>Diving Mask</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="equipment2.jpg" alt="Equipment 2">
+        <h3>Snorkel</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="equipment3.jpg" alt="Equipment 3">
+        <h3>Fins</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="equipment4.jpg" alt="Equipment 4">
+        <h3>Spearfishing Gun</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="equipment5.jpg" alt="Equipment 5">
+        <h3>Wetsuit</h3>
+      </div>
+      <div class="equipment-item">
+        <img src="equipment6.jpg" alt="Equipment 6">
+        <h3>Weight Belt</h3>
+      </div>
+    </section>
+  </main>
+
+</body>
+</html>
