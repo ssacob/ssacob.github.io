@@ -123,14 +123,6 @@ main {
 
 }
 
-.equipment-banner {
-  background-image: url("equipment-banner.jpg"); /* replace with your image */
-  background-size: cover;
-  background-position: center;
-  padding: 120px 20px 60px 20px;
-  color: white;
-  text-align: center;
-}
 
 
 /* Eqipment & Fish*/
@@ -177,22 +169,6 @@ main {
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   margin-bottom: 15px;
 }
-.reef-banner {
-  background-image: url("reefbanner.jpeg"); 
-  background-size: cover;
-  background-position: center;
-  padding: 120px 20px 60px 20px;
-  color: white;
-  text-align: center;
-}
-.safety-banner {
-  background-image: url("safety.jpg");
-  background-size: cover;
-  background-position: center;
-  padding: 120px 20px 60px 20px;
-  color: white;
-  text-align: center;
-}
 
 /* Reef Fish */
 @media (max-width: 900px) {
@@ -204,8 +180,16 @@ main {
     font-size: 2em;
     color: rgb(173, 216, 230);
   }
-
-/* Safety */
+  
+  .reef-banner {
+  background-image: url("reefbanner.jpeg"); 
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px 60px 20px;
+  color: white;
+  text-align: center;  
+}
+  /* Safety */
 @media (max-width: 500px) {
   .equipment-item {
     width: 80%;
@@ -215,7 +199,14 @@ main {
     font-size: 2em;
     color: rgb(173, 216, 230);  
 }
-
+  .safety-banner {
+  background-image: url("safety.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px 60px 20px;
+  color: white;
+  text-align: center;
+}
 /* Equipment */
 
 @media (max-width: 500px) {
@@ -227,3 +218,13 @@ main {
     font-size: 2em;
     color: rgb(173, 216, 230);  
 }
+  .equipment-banner {
+  background-image: url("equipment-banner.jpg"); 
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px 60px 20px;
+  color: white;
+  text-align: center;
+}
+
+  
