@@ -43,7 +43,7 @@ nav a: hover {
 header, section {
   margin: 2em auto;
   width: min(75em, 100%;
-  background-color: #add8e6;
+  background: #add8e6;
   paddding: min(2em, 15%);
   border-radius: 1 em;
 }
