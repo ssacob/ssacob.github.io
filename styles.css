@@ -23,6 +23,18 @@
 }
 body {
     background-color: #4d3319;
+}
+.grid-container {
+  display: grid; 
+  grid-template-columns: 1fr 1fr 1fr; 
+  gap: 20px; 
+}
+
+.grid-item {
+  padding: 15px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+}
 
 a {
     text-decoration: none;
@@ -71,7 +83,6 @@ main h3 {
 main ul {
     list-style-type: square;
 }
-.column {
     
 
 .link {
