@@ -23,7 +23,7 @@ header {
 
 nav {
   display: flex;
-  line-height: 100%;
+  line-height: 100px;
 }
 nav a {
   text-decoration: none;
