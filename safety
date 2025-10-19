@@ -20,23 +20,23 @@
         <img src="kole.jpeg" alt="Yellow Eyed Tang">
         <h3>Kole (Yellow Eyed Tang)</h3>
       </div>
-      <div class="safety-grid">
+      <div class="safety-item">
         <img src="papio.jpeg" alt="Popio">
         <h3>Smaller jack in the trevally family </h3>
       </div>
-      <div class="safety-grid">
+      <div class="safety-item">
         <img src="uhu.jpg" alt="Uhu">
         <h3>Uhu (Parrot Fish</h3>
       </div>
-      <div class="safety-grid">
+      <div class="safety-item">
         <img src="menpachi.jpg" alt="Menpachi">
         <h3>Menpachi (soldier Fish)</h3>
       </div>
-      <div class="safety-grid">
+      <div class="safety-item">
         <img src="Mu" alt="Mu">
         <h3>Mu (Big Eyed Emperor)</h3>
       </div>
-      <div class="equipment-grid">
+      <div class="equipment-item">
         <img src="toao.jpeg" alt="Toao">
         <h3>Toao (Red Tailed Snapper)</h3>
       </div>
