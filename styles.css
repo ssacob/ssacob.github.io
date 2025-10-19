@@ -16,8 +16,7 @@
 }
 /* Style rules for body and images */
 body {
-    background-color: #f6eee4;
-}
+    background-color: rgb(0, 0, 255);
 
 a {
     text-decoration: none;
