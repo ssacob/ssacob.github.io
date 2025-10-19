@@ -20,12 +20,14 @@ header {
 }
 
 nav {
-  display: inline-block;
+  display: flex;
   color: #fff;
   Background-color: #ADD8E6;
+}
 nav a {
   text-decoration: none;
   font-family: 'BBH Sans Hegarty';
   letter-spacing: 4px;
+}
 
 
