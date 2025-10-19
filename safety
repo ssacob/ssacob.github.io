@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Safety</title>
+	<meta name="viewport" charset="utf-8" content="with-device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <header class="banner equipment-banner">
+    <nav class="navbar">
+     <li><a href="index.html">Home</a></li>
+     <li><a href="equipment">Equipment</a></li>
+     <li><a href="Fish">Fish</a></li>     
+	 <li><a href="Safety">Safety</a></li> 
+    </nav>
