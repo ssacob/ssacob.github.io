@@ -32,3 +32,8 @@ nav a {
   margin: 0 1px;
 }
 
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 20px;
+}
