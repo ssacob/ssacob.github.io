@@ -12,12 +12,13 @@ body {
 
 /* Banner styling */
 .banner {
-  background-image: url(images/Spearfishing.png); /* <-- replace with your image file name or URL */
+  background-image: url(Spearfishing.png); /* <-- replace with your image file name or URL */
   background-size: cover; /* makes image cover the whole banner area */
   background-position: center; /* centers the image */
   color: white;
   text-align: center;
   padding: 100px 20px; /* adjusts the banner height and spacing */
+  position: relative;
 }
 
 /* Optional text styling */
