@@ -133,3 +133,35 @@ main {
   }
 
 }
+
+.equipment-banner {
+  background-image: url("equipment-banner.jpg"); /* replace with your image */
+  background-size: cover;
+  background-position: center;
+  padding: 120px 20px 60px 20px;
+  color: white;
+  text-align: center;
+}
+
+/* ===== EQUIPMENT GRID ===== */
+.equipment-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  padding: 40px 20px;
+}
+
+.equipment-item {
+  text-align: center;
+  width: 200px;
+}
+
+.equipment-item img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  margin-bottom: 15px;
+}
