@@ -85,7 +85,10 @@ h1 {
   border-radius: .5em;
   font-weight: 600;
 }
-
-
+.grid {
+  display: flex-grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
   
 
