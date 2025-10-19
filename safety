@@ -16,29 +16,29 @@
     </nav>
   <main>
     <section class="safety-grid">
-      <div class="equipment-item">
-        <img src="kole.jpeg" alt="Yellow Eyed Tang">
-        <h3>Kole (Yellow Eyed Tang)</h3>
+      <div class="safety-item">
+        <img src="friend.jpg" alt="Dive with a buddy">
+        <h3>Always dive with someone to watch your back</h3>
       </div>
       <div class="safety-item">
-        <img src="papio.jpeg" alt="Popio">
-        <h3>Smaller jack in the trevally family </h3>
+        <img src="flag.jpg" alt="Use a float & flag">
+        <h3>Floats & Flag help indicate that their are divers nearby</h3>
       </div>
       <div class="safety-item">
-        <img src="uhu.jpg" alt="Uhu">
-        <h3>Uhu (Parrot Fish</h3>
+        <img src="knife.jpg" alt="Carry a knife ">
+        <h3>A knife could get you out of sticky situtations like if you get stuck or caught on line</h3>
       </div>
       <div class="safety-item">
-        <img src="menpachi.jpg" alt="Menpachi">
-        <h3>Menpachi (soldier Fish)</h3>
+        <img src="weather.jpg" alt="Weather">
+        <h3>Be mindful of the weather and currents</h3>
+      </div>
+      <div class="Check Gear">
+        <img src="gear.jpg" alt="Check Gear">
+        <h3>Its always good to check if all your gear is working properly</h3>
       </div>
       <div class="safety-item">
-        <img src="Mu" alt="Mu">
-        <h3>Mu (Big Eyed Emperor)</h3>
-      </div>
-      <div class="equipment-item">
-        <img src="toao.jpeg" alt="Toao">
-        <h3>Toao (Red Tailed Snapper)</h3>
+        <img src="regulation.jpeg" alt="Check regulations">
+        <h3>Check regulations, dont shoot undersize or illegal fish</h3>
       </div>
     </section>
   </main>
