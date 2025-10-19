@@ -17,6 +17,7 @@ header {
   height 100px;
   background-color: #0000FF;
   poistion: fixed;
+  text-decoration: none;
 }
 
 nav {
