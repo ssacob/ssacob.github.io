@@ -19,6 +19,10 @@ header {
   poistion: fixed;
 }
 
+nav {
+  display: inline-block;
+  color: #fff;
+  Background-color: #ADD8E6;
 nav a {
   text-decoration: none;
   font-family: 'BBH Sans Hegarty';
